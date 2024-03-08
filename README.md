@@ -17,7 +17,7 @@ All tickets will be added to a project board. Here's how you set that up.
 3. At the top of this view, you will see a green **Link a project** button, click on the down arrow on the right of it.
 4. Choose **New project** then click on the green button.
 5. Choose **Board** from the types on the window that appears.
-6. Enter in **Exomine** in the _Project name_ input field at the top.
+6. Enter in **Cider Falls {your team name}** in the _Project name_ input field at the top. Replace _{your team name}_ with your actual team name.
 7. Click green **Create project** at the bottom.
 
 To create a issue ticket for your project, follow these steps.
