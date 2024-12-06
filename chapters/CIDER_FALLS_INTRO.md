@@ -63,16 +63,6 @@ Note how each view of her application was clearly defined with low fidelity. The
 
 ![](./images/capstone-wireframe.png)
 
-### Learn from Successful Students
-
-Here is a great example from a group project team that was assigned to build a complex application that had many views. This team took the time to clearly understand which views they needed, which content would be displayed on each, the layout of the content, and how interactions would work.
-
-It took them 1.5 days to plan their project. It then took them 3 days to implement it, to completion.
-
-Another team did not spend time to plan and design their project. They produced no wireframes and starting coding after just a few hours of preparation. This team spent 4.5 days trying to implement the project, and were only able to get 50% of it completed.
-
-![](./images/rare-wireframes.gif)
-
 ## Professional Description
 
 Please read this "[Exploring Wireframes](https://mentormate.medium.com/exploring-wireframes-is-simple-better-6c6cb7c8d483)" article for a brief overview of how user experience (UX) professionals use low fidelity wireframes to effective guide development of a software application.
