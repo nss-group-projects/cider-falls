@@ -27,5 +27,5 @@ These should be ignored until you have completely implemented all required fetur
 
 | # |  🍎 🚣🏽‍♀️ <br/> Cider Falls Park |
 |--|--|
-| 1 | [Design: Wireframes](./chapters/CIDER_FALLS_CURRENT_PARK_AREA.md) |
-| 2 | [Design: ERD](./chapters/CIDER_FALLS_MOVING_VISITORS.md) |
+| 1 | [Current Location](./chapters/CIDER_FALLS_CURRENT_PARK_AREA.md) |
+| 2 | [Moving Around the Park](./chapters/CIDER_FALLS_MOVING_VISITORS.md) |
