@@ -23,7 +23,7 @@ You will need to clone this repository, create a project board, and create issue
 
 ## Bonus Stretch Goals
 
-These should be ignored until you have completely implemented all required fetures above
+These should be ignored until you have completely implemented all required features above
 
 | # |  🍎 🚣🏽‍♀️ <br/> Cider Falls Park |
 |--|--|
