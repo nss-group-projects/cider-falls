@@ -19,3 +19,13 @@ You will need to clone this repository, create a project board, and create issue
 | 3 |  [Design: Algorithms](./chapters/CIDER_FALLS_ALGORITHM.md) |
 | 4 |  [You Are Here](./chapters/CIDER_FALLS_RIVERS_TRAILS.md) |
 | 5 | [Cider Falls Services](./chapters/CIDER_FALLS_SERVICES.md) |
+
+
+## Bonus Stretch Goals
+
+These should be ignored until you have completely implemented all required fetures above
+
+| # |  🍎 🚣🏽‍♀️ <br/> Cider Falls Park |
+|--|--|
+| 1 | [Design: Wireframes](./chapters/CIDER_FALLS_CURRENT_PARK_AREA.md) |
+| 2 | [Design: ERD](./chapters/CIDER_FALLS_MOVING_VISITORS.md) |
